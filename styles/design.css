@@ -1,0 +1,268 @@
+header {
+    width: 82%;
+    max-width: 1320px;
+    height: auto;
+    border-radius: 16px;
+    margin: 20px auto;
+    background: url(../resources/Banner\ Image.png);
+    background-repeat: no-repeat;
+}
+
+.content h2 {
+    color: white;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+}
+
+.content {
+    width: 632px;
+    margin: 0 auto;
+    padding: 177px 344px;
+    border-radius: 16px;
+
+}
+
+.content h4 {
+    color: white;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.off-cntn h2 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.off-cntn p {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.off-cntn h4 {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.off-img {
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+    margin: 0 auto;
+}
+
+.mid-night {
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    margin: 40px;
+    color: #FFFFFF;
+
+
+    ;
+}
+
+.mid-night p {
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+
+.mid-cntner {
+    background-image: url(../resources/Vectorrr.png);
+    display: flex;
+    max-width: 1310px;
+    height: 600px;
+    margin: 100px auto;
+    padding: 0px 5px
+}
+
+#btn {
+    color: #FFF;
+    text-align: left;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.mid-cntner {
+    color: #070211, #07021100;
+    
+}
+
+
+.title h4 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.title h3 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.title p {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.title {
+    max-width: 1600px;
+    margin: 100px 590px;
+    border: 20px;
+}
+
+.imgs {
+    max-width: 1600px;
+    margin: 100px 590px;
+    border-radius: 20px;
+}
+
+.letter img {
+    width: 150px;
+    height: 150px;
+    flex-shrink: 0;
+    margin: 0px 580px;
+}
+
+.letter h2 {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.letter p {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+
+input[ type="text"] {
+    width: 400px;
+    height: 35px;
+    border: none;
+    outline: none;
+    border-top-left-radius: 16px;
+    border-bottom-left-radius: 16px;
+    color: rgba(7, 2, 17, 0.30);
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+}
+
+input[ type="button"] {
+    width: 100px;
+    height: 35px;
+    border-top-right-radius: 16px;
+    border-bottom-right-radius: 16px;
+    border: none;
+    outline: none;
+    background: #F00;
+    color: white;
+}
+
+.form-input {
+    text-align: center;
+}
+
+.newslatter {
+    width: 1320px;
+    height: 616px;
+    flex-shrink: 0;
+    margin: 100px 600px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    padding-top: 70px;
+}
+
+footer {
+    color: white;
+    background: #070211;
+    width: 1600px;
+    height: 609px;
+    margin: 50px auto;
+}
+
+.p1st p {
+    width: 375px;
+}
+
+.ftr-prnts {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+hr {
+    background: rgba(255, 255, 255, 0.15);
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    gap: 24px ;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.last {display:flex ;
+justify-content: space-around;}
